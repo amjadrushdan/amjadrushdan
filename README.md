@@ -31,9 +31,7 @@
 </table>
 
 ------
- <img align="right" src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif">
-
-### Let's talk! :snail:	
+ <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif">
 
 * [LinkedIn](https://www.linkedin.com/in/amjad-rushdan-22bb28224/)
 * [Facebook](https://www.facebook.com/amjad.rushdan)
